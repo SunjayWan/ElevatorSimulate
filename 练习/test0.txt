@@ -1,0 +1,83 @@
+
+  File "C:/Users/LENOVO/Desktop/python/37.py", line 15, in <module>
+    pykeys(a)
+
+  File "C:/Users/LENOVO/Desktop/python/37.py", line 12, in pykeys
+    count_keys(i)
+
+  File "C:/Users/LENOVO/Desktop/python/37.py", line 5, in count_keys
+    textfile = open(s)
+
+FileNotFoundError: [Errno 2] No such file or directory: 'sun1.tet'
+
+
+
+
+runfile('C:/Users/LENOVO/Desktop/python/37.py', wdir='C:/Users/LENOVO/Desktop/python')
+Traceback (most recent call last):
+
+  File "<ipython-input-55-da85e4aafa5e>", line 1, in <module>
+    runfile('C:/Users/LENOVO/Desktop/python/37.py', wdir='C:/Users/LENOVO/Desktop/python')
+
+  File "E:\WPy-3670\python-3.6.7.amd64\lib\site-packages\spyder_kernels\customize\spydercustomize.py", line 668, in runfile
+    execfile(filename, namespace)
+
+  File "E:\WPy-3670\python-3.6.7.amd64\lib\site-packages\spyder_kernels\customize\spydercustomize.py", line 108, in execfile
+    exec(compile(f.read(), filename, 'exec'), namespace)
+
+  File "C:/Users/LENOVO/Desktop/python/37.py", line 15, in <module>
+    pykeys(a)
+
+  File "C:/Users/LENOVO/Desktop/python/37.py", line 12, in pykeys
+    count_keys(i)
+
+  File "C:/Users/LENOVO/Desktop/python/37.py", line 5, in count_keys
+    textfile = open(s)
+
+FileNotFoundError: [Errno 2] No such file or directory: 'sundata.txt'
+
+
+
+
+runfile('C:/Users/LENOVO/Desktop/python/37.py', wdir='C:/Users/LENOVO/Desktop/python')
+
+runfile('C:/Users/LENOVO/Desktop/python/37.py', wdir='C:/Users/LENOVO/Desktop/python')
+{}
+
+import keyword
+
+keyword.kwlist
+Out[59]: 
+['False',
+ None
+ True
+ 'and',
+ 'as',
+ 'assert',
+ 'break',
+ 'class',
+ 'continue',
+ 'def',
+ 'del',
+ 'elif',
+ 'else',
+ except
+ 'finally',
+ 'for',
+ 'from',
+ 'global',
+ 'if',
+ 'import',
+ 'in',
+ 'is',
+ 'lambda',
+ 'nonlocal',
+ 'not',
+ 'or',
+ 'pass',
+ 'raise',
+ 'return',
+ 'try',
+ 'while',
+ 'with',
+ 'yield']
